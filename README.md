@@ -4,25 +4,30 @@ GradeBuddy is an education assesment tool that uses the power of LLMs to instant
 
 This project is a modern web application built using Vite and React. It leverages the fast build tool Vite for an enhanced development experience and React for building the user interface.
 
-**Getting Started
+## Getting Started
 
 Prerequisites
+
 Ensure you have the following installed:
 
 Node.js (v14 or later recommended)
+
 npm/yarn
 
 Installation
+
 1) Clone the repository:
 git clone https://your-repository-url.git
 cd your-project-directory
 
 2) Install dependencies:
+   
 npm install
 or
 yarn install
 
 3) Start the development server:
+   
 npm run dev
 or
 yarn dev
@@ -30,6 +35,7 @@ yarn dev
 This will launch the Vite dev server, and you can view the web-application locally
 
 ## Environment Variables
+
 To manage your environment variables, create a .env file at the root of your project. Prefix your variables with VITE_ to make them available in your Vite project.
 
 Example .env:
