@@ -19,12 +19,12 @@ cd your-project-directory
 
 2) Install dependencies:
 npm install
-# or
+or
 yarn install
 
 3) Start the development server:
 npm run dev
-# or
+or
 yarn dev
 
 This will launch the Vite dev server, and you can view the web-application locally
