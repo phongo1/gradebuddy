@@ -3,7 +3,9 @@
 
 GradeBuddy is an education assesment tool that uses the power of LLMs to instantly grade any student answer (free-response and essay included). Saving faculty time, giving student's timely feedback, and elevating the learning experience.
 
-This project is a modern web application built using Vite and React. It leverages the fast build tool Vite for an enhanced development experience and React for building the user interface.
+This project is a modern web application built using Vite and React. It leverages the fast build tool Vite for an enhanced development experience and React for building the user interface.<br/>
+DEMO VIDEO: <br/>
+[https://www.youtube.com/watch?v=APeaqKZQQn4&t=4s&ab_channel=PhongLe](url) 
 
 ## Getting Started
 
@@ -18,7 +20,7 @@ npm/yarn
 Installation
 
 1) Clone the repository:
-git clone https://your-repository-url.git
+git clone [https://your-repository-url.git](https://github.com/phongo1/gradebuddy)
 cd your-project-directory
 
 2) Install dependencies:
