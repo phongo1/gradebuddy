@@ -5,7 +5,7 @@ GradeBuddy is an education assesment tool that uses the power of LLMs to instant
 
 This project is a modern web application built using Vite and React. It leverages the fast build tool Vite for an enhanced development experience and React for building the user interface.<br/>
 DEMO VIDEO: <br/>
-[https://www.youtube.com/watch?v=APeaqKZQQn4&t=4s&ab_channel=PhongLe](url) 
+https://www.youtube.com/watch?v=APeaqKZQQn4&t=4s&ab_channel=PhongLe
 
 ## Getting Started
 
